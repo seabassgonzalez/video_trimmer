@@ -1,0 +1,14 @@
+node_modules/
+output/
+*.log
+.DS_Store
+.env
+dist/
+build/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wmv
+*.flv
+*.webm
