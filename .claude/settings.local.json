@@ -8,7 +8,8 @@
       "Bash(ffprobe:*)",
       "Bash(ffmpeg:*)",
       "Bash(find:*)",
-      "Bash(xxd:*)"
+      "Bash(xxd:*)",
+      "Bash(curl:*)"
     ],
     "deny": []
   }
