@@ -9,7 +9,9 @@
       "Bash(ffmpeg:*)",
       "Bash(find:*)",
       "Bash(xxd:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(pkill:*)",
+      "Bash(npm run server:*)"
     ],
     "deny": []
   }
